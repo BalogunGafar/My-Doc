@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+   }
+h2 {
+    color: chartreuse; font-style: oblique;
+   }
+p{
+   color: indigo; 
+}
+.note{
+    font-size: 32px; color: brown;
+}
+li[value="5"]{
+    color: blue;
+}
+li[value="1"]{
+    color: crimson;
+}
+li[value="2"]{
+    color: darkblue;
+}
+
+li[value="3"]{
+    color: mediumvioletred;
+}
+
+* {
+    text-align: center;
+}
+h3 {
+    background-color: greenyellow;
+    color: blue;
+}
+p[draggable="false"] {
+         color: darkcyan;
+}
